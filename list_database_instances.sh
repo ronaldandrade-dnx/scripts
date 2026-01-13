@@ -1,7 +1,6 @@
 #!/usr/bin/env bash 
-# nano list_database_instances.sh 
-# chmod +x list_database_instances.sh 
-# ./list_database_instances.sh
+# curl -fsSL https://raw.githubusercontent.com/ronaldandrade-dnx/scripts/refs/heads/main/list_database_instances.sh | bash
+
 set -euo pipefail
 
 OUTPUT="rds_inventory_all_regions.csv"
