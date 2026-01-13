@@ -1,7 +1,6 @@
 #!/usr/bin/env bash 
 # curl -fsSL https://raw.githubusercontent.com/ronaldandrade-dnx/scripts/refs/heads/main/list_database_instances.sh | bash
 
-set -euo pipefail
 
 OUTPUT="rds_inventory_all_regions.csv"
 
