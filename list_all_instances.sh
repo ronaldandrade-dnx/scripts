@@ -1,4 +1,5 @@
 #!/bin/bash
+# curl -fsSL https://raw.githubusercontent.com/ronaldandrade-dnx/scripts/refs/heads/main/list_all_instances.sh | bash
 
 # Cabeçalho
 echo "Nome,ID,Tipo,Região"
